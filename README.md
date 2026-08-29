@@ -290,7 +290,7 @@ ffprobe -version
 ## 1. 下载项目
 
 ```bash
-git clone https://github.com/<your-username>/nas-music-cleaner.git
+git clone https://github.com/ywueoei/NAS_Music_Cleaner.git
 cd nas-music-cleaner
 ```
 
